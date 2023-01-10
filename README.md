@@ -56,3 +56,4 @@ python detect.py
 # tensorrt_yolov7_opencv_queue
 # tensorrt_yolov7_opencv_queue
 # -itcastlizhijun-tensorrt_yolov7_opencv_queue
+# -itcastlizhijun-tensorrt_yolov7_opencv_queue
