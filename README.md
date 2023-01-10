@@ -53,7 +53,3 @@ python detect.py
 
  ## Reference
  - https://github.com/Monday-Leo/YOLOv7_Tensorrt
-# tensorrt_yolov7_opencv_queue
-# tensorrt_yolov7_opencv_queue
-# -itcastlizhijun-tensorrt_yolov7_opencv_queue
-# -itcastlizhijun-tensorrt_yolov7_opencv_queue
