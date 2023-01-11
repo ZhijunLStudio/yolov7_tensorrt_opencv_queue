@@ -24,7 +24,7 @@
 3.Install dependent libraries
 
 ```sh
-pip install -r requirements
+pip install -r requirements.txt
 ```
 
 
