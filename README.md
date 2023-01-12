@@ -24,6 +24,10 @@
 
 2.Download this repository
 
+```bash
+git clone https://github.com/ZhijunLStudio/yolov7_tensorrt_opencv_queue.git
+```
+
 3.Install dependent libraries
 
 ```sh
