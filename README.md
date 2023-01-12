@@ -14,10 +14,13 @@
 
 1.Recommended to use the ubuntu system for operation, and the software configuration is as follows:
 
-- ubuntu20.04
-- Cuda11.6
-- cudnn8.4.1
-- tensorrt8.4.1
+ - ubuntu20.04
+ - cuda11.2
+ - cudnn8.4.0
+ - tensorrt8.4.3.1
+ - python3.7
+ - pytorch1.10.0
+ - torchvision0.11.0
 
 2.Download this repository
 
